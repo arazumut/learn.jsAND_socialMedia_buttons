@@ -174,7 +174,7 @@ console.log("toplam :"+ toplamken);
 let dizi1 = ["enes","kamil","umut","araz"]; //todo böyle yapmak daha iyi
 let dizi2 = new Array();
 
-// ya böyle yapcan
+
 dizi1[0]=10;
 dizi2[3]=11;
 //* diziler aslında bir opject veri tipidir
